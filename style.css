@@ -1,0 +1,28 @@
+body{
+    background-color: darkgreen;
+}
+
+main{
+    background-color: white;
+    margin: auto;
+    width: 550px;
+    border-radius: 10px;
+    font-size: 26px;
+    padding-left: 15px;
+    box-shadow: 10px 5px 5px rgba(255, 238, 2, 0.486);
+}
+
+footer{
+    text-align: center;
+    color: white;
+}
+
+header{
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+select{
+    margin-bottom: 10px;
+}
